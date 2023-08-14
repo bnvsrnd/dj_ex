@@ -5,3 +5,9 @@ def index(request):
         request,
         'home/index.html'
     )
+    
+def about(request):
+    return render(
+        request,
+        'home/about.html'
+    )
