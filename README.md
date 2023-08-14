@@ -1,3 +1,7 @@
+bnvsrnd/dj_ex 리퍼지토리 생성
+제어판 > 사용자 계정 > 윈도우 자격증명 관리 > git:https://github.com 편집 
+사용자 이름, 암호(personal access tokens) 편집
+
 [ 08/11 ]
 index.html 파일 생성 - start bootstrap free template 활용
 
